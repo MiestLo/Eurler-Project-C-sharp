@@ -19,6 +19,7 @@ namespace EulerProjectInC_Sharp
                     result += 5 * a;
             }
             Console.WriteLine(result.ToString());
+            //result = 266333
         }
     }
 }
