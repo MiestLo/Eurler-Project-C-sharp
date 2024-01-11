@@ -1,0 +1,7 @@
+C:\Users\Miest\Documents\GitHub\Eurler-Project-C-sharp\EulerProjectInC-Sharp\obj\Debug\EulerProjectInC-Sharp.csproj.AssemblyReference.cache
+C:\Users\Miest\Documents\GitHub\Eurler-Project-C-sharp\EulerProjectInC-Sharp\obj\Debug\EulerProjectInC-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Miest\Documents\GitHub\Eurler-Project-C-sharp\EulerProjectInC-Sharp\bin\Debug\EulerProjectInC-Sharp.exe.config
+C:\Users\Miest\Documents\GitHub\Eurler-Project-C-sharp\EulerProjectInC-Sharp\bin\Debug\EulerProjectInC-Sharp.exe
+C:\Users\Miest\Documents\GitHub\Eurler-Project-C-sharp\EulerProjectInC-Sharp\bin\Debug\EulerProjectInC-Sharp.pdb
+C:\Users\Miest\Documents\GitHub\Eurler-Project-C-sharp\EulerProjectInC-Sharp\obj\Debug\EulerProjectInC-Sharp.exe
+C:\Users\Miest\Documents\GitHub\Eurler-Project-C-sharp\EulerProjectInC-Sharp\obj\Debug\EulerProjectInC-Sharp.pdb
